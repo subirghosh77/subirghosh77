@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subir Ghosh</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Subir Ghosh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on [Newspring](https://github.com/subirghosh77)
