@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 I’m complete a project [Online Chatting System](https://github.com/subirghosh77)
+- 👨‍💻 I have complete a project [Online Chatting System](https://github.com/subirghosh77)
 
 - 👨‍💻 All of my projects are available at [https://github.com/subirghosh77](https://github.com/subirghosh77)
 
-- 💬 Ask me about **HTML,CSS, JS,MuSQL,PHP,JAVA**
+- 💬 Ask me about **HTML,CSS, JS,MySQL,PHP,JAVA**
 
 - 📫 How to reach me **subirghoshblgt@gmail.com**
 
