@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Subir Ghosh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+<img align="center" src="https://komarev.com/ghpvc/?username=subirghosh77&label=Profile%20views&color=0e75b6&style=flat" alt="subirghosh77" />
+
 - 🔭 I’m currently working on [Newspring](https://github.com/subirghosh77)
 
 - 🌱 I’m currently learning **Spring Framework**
