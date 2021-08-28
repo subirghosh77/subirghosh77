@@ -3,13 +3,13 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=subirghosh77&label=Profile%20views&color=0e75b6&style=flat" alt="subirghosh77" />
 
-- 🔭 I’m currently working on [Newspring](https://github.com/subirghosh77)
+- 🔭 I’m currently working on [Newspring](https://github.com/subirghosh77/newspring)
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 I have complete a project [Online Chatting System](https://github.com/subirghosh77)
+- 👨‍💻 I have complete a project [Online Chatting System](https://github.com/subirghosh77/online-chatting-system)
 
-- 👨‍💻 All of my projects are available at [https://github.com/subirghosh77](https://github.com/subirghosh77)
+- 👨‍💻 All of my projects are available at [https://github.com/subirghosh77](https://github.com/subirghosh77/)
 
 - 💬 Ask me about **HTML,CSS, JS,MySQL,PHP,JAVA**
 
